@@ -18,3 +18,4 @@ This project involves extracting and analyzing text from a PDF document, generat
 
 ![image](https://github.com/user-attachments/assets/16af3a4c-40f6-4cc7-98d9-6c8104efcf60)
 
+![image](https://github.com/user-attachments/assets/41c914f4-bb37-4f97-a7bb-14e77118c572)

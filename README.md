@@ -15,3 +15,6 @@ This project involves extracting and analyzing text from a PDF document, generat
 - **Text Extraction:** Extracting text from PDF files
 - **Data Visualization:** Generating and displaying word clouds
 - **Sentiment Analysis:** Analyzing text sentiment using TextBlob
+
+![image](https://github.com/user-attachments/assets/16af3a4c-40f6-4cc7-98d9-6c8104efcf60)
+
